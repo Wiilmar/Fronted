@@ -8,7 +8,7 @@
 
 ## Pendientes 📋
 
-- [ ] Blah Blah (Fecha límite: 00 de mes, Responsable: N/A)
+- [ ] Realizar el prototipado en la plataforma de figma (Fecha límite: 00 de mes, Responsable: N/A)
 - [ ] Blah Blah (Fecha límite: 00 de mes, Responsable: N/A)
 - [ ] Blah Blah (Fecha límite: 00 de mes, Responsable: N/A)
 
