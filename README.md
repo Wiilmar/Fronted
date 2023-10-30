@@ -2,8 +2,9 @@
 
 ## Integrantes 🤓
 
-- :man_technologist: Juan Pérez [@juanperez](https://github.com/juanperez)
-- :woman_technologist: Ana Gómez [@anagomez](https://github.com/anagomez)
+- :man_technologist: Camilo Tacue [@CamiloxD1206](https://github.com/CamiloxD1206)
+- :man_technologist: Daniel Lubo [@Dan1elFelipe](https://github.com/Dan1elFelipe)
+- :man_technologist: Wilman Rodriguez [@Wiilmar](https://github.com/Wiilmar)
 
 ## Pendientes 📋
 
